@@ -1,2 +1,2 @@
 # CSSElements
-CSS Elements, like toggles, spinners, etc, coded - from scratch.
+CSS Elements, coded - from scratch.
